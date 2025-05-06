@@ -1,0 +1,29 @@
+body {
+    background-color: #ffd26a;
+}
+.titulo {
+    text-align: center;
+    font-size: 25px;
+    color: #b900ff;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px rgb(250, 0, 0);
+}
+.irAbajo {
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
+.continuarBoton {
+    text-align: center;
+}
+.botonContinuar {
+    background-color: #add8e6;
+    color: white;
+    border-radius: 5px;
+    font-size: 25px;
+    cursor: pointer;
+    margin-top: 5000px;
+}
